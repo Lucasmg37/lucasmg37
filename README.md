@@ -2,7 +2,7 @@
 
 💡 Desenvolvedor Web Fullstack
 
-🐝 Colaborador na **Sambatech**.
+👨‍💻 Colaborador na **Getrak**.
 
 🎓 Graduado em Gestão da Tecnologia da Informação
 
@@ -11,14 +11,12 @@
 -->
 
 ### 📦 Principais tecnologias que já trabalhei
-
-![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)
+![React badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=222&)
 ![Js Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=222)
 ![Ts Badge](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=Typescript&logoColor=222)
-![Html 5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![React badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=222&)
 ![Vue badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=FFF)
 ![Laravel badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFF&)
+![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)
 
 
 ### ✨ Como você pode me encontrar
