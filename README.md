@@ -2,7 +2,7 @@
 
 💡 Desenvolvedor Web Fullstack
 
-👨‍💻 Colaborador na **Getrak**.
+👨‍💻 Colaborador na **4All**.
 
 🎓 Graduado em Gestão da Tecnologia da Informação
 
