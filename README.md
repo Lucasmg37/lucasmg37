@@ -2,7 +2,7 @@
 
 💡 Desenvolvedor Web Fullstack
 
-👨‍💻 Colaborador na **4All**.
+👨‍💻 Colaborador na **MAIS TODOS**.
 
 🎓 Graduado em Gestão da Tecnologia da Informação
 
